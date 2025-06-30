@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Dashboard Generator
 
 AI Dashboard Generator is an open-source dashboard generator based on Next.js and OpenAI's GPT3 technology. The tool allows users to feed existing tables or datasets, and from there, it understands the intent of the table and generates a visual representation of the data.
@@ -53,3 +54,6 @@ The AI Dashboard Generator is licensed under the MIT License. See the [LICENSE](
 ## Contact
 
 If you have any questions or feedback about the AI Dashboard Generator, please feel free to contact us at info@leniolabs.com. We'd love to hear from you!
+=======
+# ai-data-dashboard
+>>>>>>> 339d6ddbc0316255734009e787eb2b4efcaa5f79
